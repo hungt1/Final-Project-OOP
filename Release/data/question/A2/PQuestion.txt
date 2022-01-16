@@ -1,0 +1,181 @@
+30 
+4 2
+Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?
+Xe tải, xe lam, xe con, mô tô.
+Xe tải, mô tô, xe lam, xe con.
+Xe lam, xe tải, xe con, mô tô.
+Mô tô, xe lam, xe tải, xe con.
+data/images/371.jpg
+4 1
+Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?
+Xe công an, xe con, xe tải, xe lam.
+Xe công an, xe lam, xe con, xe tải.
+Xe công an, xe tải, xe lam, xe con.
+Xe con, xe công an, xe tải, xe lam.
+data/images/372.jpg
+4 4
+Theo hướng mũi tên, thứ tự các xe đi như thế nào là đúng quy tắc giao thông?
+Xe tải, xe công an, xe khách, xe con.
+Xe công an, xe khách, xe con, xe tải.
+Xe công an, xe con, xe tải, xe khách.
+Xe công an, xe tải, xe khách, xe con.
+data/images/373.jpg
+4 3
+Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?
+Xe tải, xe lam, mô tô.
+Xe lam, xe tải, mô tô.
+Mô tô, xe lam, xe tải.
+Xe lam, mô tô, xe tải.
+data/images/374.jpg
+2 1
+Xe nào phải nhường đường trong trường hợp này?
+Xe con.
+Xe tải.
+data/images/375.jpg
+2 2
+Trường hợp này xe nào được quyền đi trước?
+Mô tô.
+Xe con.
+data/images/376.jpg
+3 1
+Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?
+Xe lam, xe cứu thương, xe con.
+Xe cứu thương, xe con, xe lam.
+Xe con, xe lam, xe cứu thương.
+data/images/377.jpg
+3 2
+Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?
+Xe cứu thương, xe cứu hỏa, xe con.
+Xe cứu hỏa, xe cứu thương, xe con.
+Xe cứu thương, xe con, xe cứu hỏa.
+data/images/378.jpg
+2 2
+Xe nào được quyền đi trước trong trường hợp này ?
+Mô tô.
+Xe cứu thương.
+data/images/379.jpg
+3 1
+Xe nào phải nhường đường đi cuối cùng qua nơi giao nhau này?
+Xe khách.
+Xe tải.
+Xe con.
+data/images/380.jpg
+2 1
+Xe nào phải nhường đường là đúng quy tắc giao thông?
+Xe con.
+Xe tải.
+data/images/381.jpg
+2 2
+Xe nào được quyền đi trước trong trường hợp này?
+Xe công an.
+Xe chữa cháy.
+data/images/382.jpg
+2 1
+Theo tín hiệu đèn, xe nào được phép đi?
+Xe con và xe khách.
+Mô tô.
+data/images/383.jpg
+3 1
+Theo tín hiệu đèn, xe nào được quyền đi là đúng quy tắc giao thông?
+Xe khách, mô tô.
+Xe tải, mô tô.
+Xe con, xe tải.
+data/images/384.jpg
+2 2
+Trong trường hợp này xe nào được quyền đi trước?
+Xe công an.
+Xe quân sự.
+data/images/385.jpg
+4 2
+Theo tín hiệu đèn, xe tải đi theo hướng nào là đúng quy tắc giao thông ?
+Hướng 2, 3, 4.
+Chỉ hướng 1.
+Hướng 1 và 2.
+Hướng 3 và 4.
+data/images/386.jpg
+3 1
+Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông ?
+Xe khách, xe tải, mô tô.
+Xe tải, xe con, mô tô.
+Xe khách, xe con, mô tô.
+data/images/387.jpg
+4 3
+Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?
+Xe khách, xe tải, mô tô, xe con.
+Xe con, xe khách, xe tải, mô tô.
+Mô tô, xe tải, xe khách, xe con.
+Mô tô, xe tải, xe con, xe khách.
+data/images/388.jpg
+4 1
+Trong trường hợp này xe nào đỗ vi phạm quy tắc giao thông ?
+Xe tải.
+Cả ba xe.
+Xe con và mô tô.
+Xe con và xe tải.
+data/images/389.jpg
+3 2
+Xe nào được quyền đi trước?
+Xe tải.
+Xe con.
+Xe lam.
+data/images/390.jpg
+3 1
+Theo hướng mũi tên, những hướng nào xe gắn máy đi được?
+Cả ba hướng.
+Hướng 1 và 3.
+Chỉ hướng 1.
+data/images/391.jpg
+4 1
+Xe nào đỗ vi phạm quy tắc giao thông?
+Cả hai xe.
+Mô tô.
+Xe tải.
+Không xe nào vi phạm.
+data/images/392.jpg
+4 2
+Xe nào đỗ vi phạm quy tắc giao thông?
+Mô tô.
+Cả ba xe.
+Xe tải.
+Mô tô và xe tải.
+data/images/393.jpg
+2 2
+Xe tải kéo mô tô ba bánh như hình này có đúng quy tắc giao thông không?
+Đúng.
+Không đúng.
+data/images/394.jpg
+2 2
+Theo hướng mũi tên, hướng nào xe không được phép đi?
+Hướng 2 và 5
+Chỉ hướng 1
+data/images/395.jpg
+4 4
+Theo hướng mũi tên, những hướng nào ô tô không được phép đi?
+Hướng 1 và 2.
+Chỉ hướng 1.
+Hướng 1 và 4.
+Hướng 2 và 3.
+data/images/396.jpg
+4 4
+Xe nào vượt đúng quy tắc giao thông?
+Cả hai xe đều không đúng.
+Xe con.
+Xe khách.
+Cả hai xe đều đúng.
+data/images/397.jpg
+3 1
+Theo hướng mũi tên, gặp biển hướng đi phải theo đặt trước ngã tư, những hướng nào xe được phép đi?
+Hướng 2 và 3.
+Hướng 1, 2 và 3.
+Hướng 1 và 3.
+data/images/398.jpg
+2 2
+Xe kéo nhau như hình này có vi phạm quy tắc giao thông không?
+Không.
+Vi phạm.
+data/images/399.jpg
+2 1
+Xe nào phải nhường đường trong trường hợp này?
+Xe khách.
+Xe tải.
+data/images/400.jpg

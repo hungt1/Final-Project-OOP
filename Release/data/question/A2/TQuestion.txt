@@ -1,0 +1,150 @@
+30
+3 1
+“Vạch kẻ đường” được hiểu như thế nào là đúng?
+Vạch kẻ đường là vạch chỉ sự phân chia làn đường, vị trí hoặc hướng đi, vị trí dừng lại.
+Vạch kẻ đường là vạch chỉ sự phân biệt vị trí dừng, đỗ trên đường
+Tất cả các ý nêu trên.
+3 1
+Khái niệm “Phần đường xe chạy” được hiểu như thế nào là đúng?
+Là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại.
+Là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại, dải đất dọc hai bên đường để đảm bảo an toàn giao thông.
+Là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại, các công trình, thiết bị phụ trợ khác và dải đất dọc hai bên đường để đảm bảo an toàn giao thông.
+3 2
+Khái niệm “Làn đường” được hiểu như thế nào là đúng?
+Là một phần của phần đường xe chạy được chia theo chiều ngang của đường, có bề rộng đủ cho xe đỗ an toàn.
+Là một phần của đường xe chạy được chia theo chiều dọc của đường, có bề rộng đủ cho xe chạy an toàn.
+Tất cả đều đúng.
+3 1
+Khái niệm “Khổ giới hạn của đường bộ” được hiểu như thế nào là đúng?
+Là khoảng trống có kích thước giới hạn về chiều cao, chiều rộng của đường, cầu, bến phà, hầm đường bộ để các xe kể cả hàng hóa xếp trên xe đi qua được an toàn.
+Là khoảng trống có kích thước giới hạn về chiều rộng của đường, cầu, bến phà, hầm trên đường bộ để các xe kể cả hàng hóa xếp trên xe đi qua được an toàn.
+Là khoảng trống có kích thước giới hạn về chiều cao, chiều rộng của đường, cầu, bến phà, hầm trên đường bộ để các xe đi qua được an toàn.
+3 1
+Khái niệm “Đường phố” được hiểu như thế nào là đúng?
+Đường phố là đường đô thị, gồm lòng đường và hè phố.
+Đường phố là đường bộ trong đô thị có lòng đường đủ rộng cho các phương tiện giao thông qua lại.
+Tất cả đều đúng.
+3 1
+Khái niệm “Dải phân cách” được hiểu như thế nào là đúng?
+Là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.
+Là bộ phận để phân chia đường cho xe chạy an toàn hoặc để phân chia phần đường của xe cơ giới với các loại xe khác
+Là bộ phận của đường để ngăn cách không cho các loại xe vào những nơi không được phép.
+3 3
+Dải phân cách trên đường bộ có những loại nào?
+Loại cố định.
+Loại di động.
+Tất cả đều đúng.
+2 1
+Khái niệm “Đường cao tốc” được hiểu như thế nào là đúng?
+Là đường dành cho xe cơ giới, có dải phân cách chia đường cho xe chạy hai chiều riêng biệt; không giao nhau cùng mức với một hoặc các đường khác; được bố trí đầy đủ trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình và chỉ cho xe ra, vào ở những điểm nhất định.
+Là đường chỉ dành cho xe cơ giới chạy với tốc độ cao, có dải phân cách chia đường cho xe chạy theo hai chiều ngược nhau riêng biệt, không giao cắt cùng mức với các đường khác, bố trí đầy đủ trang thiết bị phục vụ bảo đảm giao thông, an toàn và rút ngắn thời gian hành trình.
+3 1
+Khái niệm “Đường chính” được hiểu như thế nào là đúng?
+Đường chính là đường đảm bảo giao thông chủ yếu trong khu vực.
+Đường chính là đường quốc lộ được đặt tên, số hiệu do cơ quan có thẩm quyền phân loại và quyết định
+Đường chính là đường trong đô thị hoặc đường tỉnh.
+3 2
+Khái niệm “đường ưu tiên” được hiểu như thế nào là đúng?
+Đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông đường bộ phải nhường đường cho các phương tiện đến từ hướng khác khi qua nơi đường giao nhau, có thể được cắm biển báo hiệu đường ưu tiên.
+Đường ưu tiên là đường mà trên đó phương tiện tham gia giao thông đường bộ được các phương tiện đến từ hướng khác nhường đường khi qua nơi giao nhau, được cắm biển báo hiệu đường ưu tiên.
+Đường ưu tiên là đường chỉ dành cho một số loại phương tiện tham gia giao thông, được cắm biển báo hiệu đường ưu tiên.
+3 1
+“Phương tiện giao thông đường bộ” gồm những loại nào?
+Phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ.
+Phương tiện giao thông thô sơ đường bộ, phương tiện giao thông cơ giới đường bộ và xe máy chuyên dùng
+Cả hai ý nêu trên.
+2 2
+“Phương tiện giao thông cơ giới đường bộ” được hiểu thế nào là đúng?
+Gồm xe ô tô, máy kéo, xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, xe cơ giới dùng cho người khuyết tật và xe máy chuyên dùng.
+Gồm xe ô tô, máy kéo, rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo, xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.
+3 1
+“Phương tiện giao thông thô sơ đường bộ” được hiểu thế nào là đúng?
+Gồm xe đạp (kể cả xe đạp máy),xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự.
+Gồm ô tô; máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy; xe cơ giới dùng cho người khuyết tật và xe máy chuyên dùng.
+Gồm ô tô; máy kéo; rơ mooc hoặc sơ mi rơ mooc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.
+3 3
+“Phương tiện tham gia giao thông đường bộ” gồm những loại nào?
+Phương tiện giao thông cơ giới đường bộ.
+Phương tiện giao thông thô sơ đường bộ và xe máy chuyên dùng.
+Tất cả đều đúng
+3 3
+“Người tham gia giao thông đường bộ” gồm những đối tượng nào?
+Người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ.
+Người điều khiển, dẫn dắt súc vật và người đi bộ trên đường bộ
+Tất cả đều đúng
+3 3
+“Người điều khiển phương tiện tham gia giao thông” gồm những đối tượng nào?
+Người điều khiển xe cơ giới, người điều khiển xe thô sơ.
+Người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ.
+Tất cả đều đúng
+3 2
+Khái niệm “Dừng xe” được hiểu như thế nào là đúng quy tắc giao thông?
+Dừng xe là trạng thái đứng yên của phương tiện giao thông để cho người lên, xuống phương tiện đó, xếp dỡ hàng hóa hoặc thực hiện công việc khác.
+Dừng xe là trạng thái đứng yên tạm thời của phương tiện giao thông trong một khoảng thời gian cần thiết đủ để cho người lên, xuống phương tiện, xếp dỡ hàng hóa hoặc thực hiện công việc khác.
+Tất cả đều đúng
+3 2
+Khái niệm “Đỗ xe” được hiểu như thế nào là đúng quy tắc giao thông?
+Là trạng thái đứng yên của phương tiện giao thông có giới hạn trong một khoảng thời gian cần thiết đủ để cho người lên, xuống phương tiện đó, xếp dỡ hàng hóa hoặc thực hiện công việc khác.
+Là trạng thái đứng yên của phương tiện giao thông không giới hạn thời gian.
+Tất cả đều đúng
+3 3
+Các hành vi nào ghi ở dưới đây bị nghiêm cấm?
+Phá hoại đường, cầu, hầm, bến phà đường bộ, phá hoại đèn tín hiệu, cọc tiêu, biển báo hiệu, gương cầu, dải phân cách.
+Phá hoại hệ thống thoát nước và các công trình, thiết bị khác thuộc kết cấu hạ tầng giao thông đường bộ.
+Tất cả đều đúng
+4 2
+Hành vi đưa xe cơ giới, xe máy chuyên dùng không bảo đảm tiêu chuẩn an toàn kỹ thuật và bảo vệ môi trường tham gia giao thông đường bộ có bị nghiêm cấm hay không?
+Không nghiêm cấm.
+Bị nghiêm cấm.
+Bị nghiêm cấm tùy theo các tuyến đường.
+Bị nghiêm cấm tùy theo loại xe.
+3 3
+Những hành vi nào ghi ở dưới đây bị nghiêm cấm?
+Đua xe, cổ vũ đua xe, tổ chức đua xe trái phép.
+Lạng lách, đánh võng
+Tất cả ý trên
+2 1
+Người điều khiển phương tiện giao thông đường bộ mà trong cơ thể có chất ma túy có bị nghiêm cấm hay không?
+Bị nghiêm cấm
+Không bị nghiêm cấm.
+3 2
+Người điều khiển xe ô tô, máy kéo, xe máy chuyên dùng trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá bao nhiêu thì bị cấm?
+Người điều khiển xe ô tô, máy kéo, xe máy chuyên dùng trên đường mà trong máu có nồng độ cồn vượt quá 50 miligam/100mililit máu hoặc 0,25 miligam/1 lít khí thở.
+Người điều khiển xe ô tô, máy kéo, xe máy chuyên dùng trên đường mà trong máu hoặc hơi thở có nồng độ cồn.
+Người điều khiển xe ô tô, máy kéo, xe máy chuyên dùng trên đường mà trong máu có nồng độ cồn vượt quá 80 miligam/100 mililit máu hoặc 40 miligam/1 lít khí thở.
+3 1
+Người điều khiển xe mô tô, xe gắn máy trên đường mà trong máu có nồng độ cồn vượt quá bao nhiêu thì bị cấm
+Nồng độ cồn vượt quá 50 miligam/100 mililit máu.
+Nồng độ cồn vượt quá 40 miligam/100 mililit máu.
+Nồng độ cồn vượt quá 30 miligam/100 mililit máu.
+3 2
+Hành vi giao xe cơ giới, xe máy chuyên dùng cho người không đủ điều kiện để điều khiển xe tham gia giao thông có bị nghiêm cấm hay không?
+Không bị nghiêm cấm.
+Bị nghiêm cấm.
+Nghiêm cấm tùy từng trường hợp.
+3 1
+Hành vi điều khiển xe cơ giới chạy quá tốc độ quy định, giành đường, vượt ẩu có bị nghiêm cấm hay không?
+Bị nghiêm cấm.
+Bị nghiêm cấm tùy từng trường hợp.
+Không bị nghiêm cấm.
+3 3
+Những hành vi nào sau đây bị cấm?
+Bấm còi, rú ga liên tục, bấm còi trong thời gian từ 22 giờ đến 5 giờ.
+Bấm còi hơi, sử dụng đèn chiếu xa trong khu đô thị và khu dân cư, trừ các xe ưu tiên khi đang làm nhiệm vụ.
+Tất cả các ý trên
+3 3
+Hành vi bỏ trốn sau khi gây tai nạn để trốn tránh trách nhiệm hoặc khi có điều kiện mà cố ý không cứu giúp người bị tai nạn giao thông có bị nghiêm cấm hay không?
+Không bị nghiêm cấm.
+Nghiêm cấm tùy từng trường hợp cụ thể.
+Bị nghiêm cấm.
+3 3
+Việc sản xuất, sử dụng, mua bán biển số xe cơ giới, xe máy chuyên dùng được qui định như thế nào trong Luật Giao thông đường bộ?
+Nghiêm cấm sản xuất, sử dụng trái phép.
+Nghiêm cấm mua, bán.
+Nghiêm cấm sản xuất, mua bán, sử dụng trái phép.
+4 2
+Người điều khiển phương tiện giao thông trên đường phố có được dừng xe, đỗ xe trên đường xe điện, trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước hay không?
+Được dừng xe, đỗ xe trong trường hợp cần thiết.
+Không được dừng xe, đỗ xe.
+Được dừng, đỗ xe.
+Được dừng xe.

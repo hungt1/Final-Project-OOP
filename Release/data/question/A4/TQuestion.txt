@@ -1,0 +1,320 @@
+60
+3 2
+Phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại là gì?
+Phần mặt đường và lề đường. 
+Phần đường xe chạy.
+Phần đường xe cơ giới.
+3 2
+“Làn đường” là gì?
+Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, sử dụng cho xe chạy.
+Là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có bề rộng đủ cho xe chạy an toàn.
+Là đường cho xe ô tô chạy, dừng, đỗ an toàn.
+3 3
+Trong các khái niệm dưới đây, “dải phân cách” được hiểu như thế nào là đúng?
+Là bộ phận của đường để ngăn cách không cho các loại xe vào những nơi không được phép.
+Là bộ phận của đường để phân tách phần đường xe chạy và hành lang an toàn giao thông.
+Là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ.
+3 1
+“Dải phân cách” trên đường bộ gồm những loại nào?
+Dải phân cách gồm loại cố định và loại di động.
+Dải phân cách gồm tường chống ồn, hộ lan cứng và hộ lan mềm. 
+Dải phân cách gồm giá long môn và biển báo hiệu đường bộ.
+3 1
+Người lái xe được hiểu như thế nào trong các khái niệm dưới đây?
+Là người điều khiển xe cơ giới. 
+Là người điều khiển xe thô sơ.
+Là người điều khiển xe có súc vật kéo.
+4 4
+Đường mà trên đó phương tiện tham gia giao thông được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên là loại đường gì?
+Đường không ưu tiên. 
+Đường tỉnh lộ.
+Đường quốc lộ.
+Đường ưu tiên.
+2 2
+Khái niệm “phương tiện giao thông cơ giới đường bộ” được hiểu thế nào là đúng?
+Gồm xe ô tô; máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy; xe cơ giới dùng cho người khuyết tật và xe máy chuyên dùng.
+Gồm xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh, xe gắn máy (kể cả xe máy điện) và các loại xe tương tự.
+3 1
+Khái niệm “phương tiện giao thông thô sơ đường bộ” được hiểu thế nào là đúng?
+Gồm xe đạp (kể cả xe đạp máy, xe đạp điện), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự.
+Gồm xe đạp (kể cả xe đạp máy, xe đạp điện), xe gắn máy, xe cơ giới dùng cho người khuyết tật và xe máy chuyên dùng.
+Gồm xe ô tô, máy kéo, rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo.
+3 3
+“Phương tiện tham gia giao thông đường bộ” gồm những loại nào?
+Phương tiện giao thông cơ giới đường bộ.
+Phương tiện giao thông thô sơ đường bộ và xe máy chuyên dùng.
+Cả 2 ý.
+3 3
+“Người tham gia giao thông đường bộ” gồm những đối tượng nào?
+Người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ.
+Người điều khiển, dẫn dắt súc vật; người đi bộ trên đường bộ.
+Cả 2 ý.
+3 3
+“Người điều khiển phương tiện tham gia giao thông đường bộ” gồm những đối tượng nào dưới đây?
+Người điều khiển xe cơ giới, người điều khiển xe thô sơ.
+Người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ.
+Cả 2 ý.
+3 2
+Khái niệm “người điều khiển giao thông” được hiểu như thế nào là đúng?
+Là người điều khiển phương tiện tham gia giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt.
+Là cảnh sát giao thông, người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt.
+Là người tham gia giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt.
+3 2
+Trong các khái niệm dưới đây khái niệm “dừng xe” được hiểu như thế nào là đúng?
+Là trạng thái đứng yên của phương tiện giao thông không giới hạn thời gian để cho người lên, xuống phương tiện, xếp dỡ hàng hóa hoặc thực hiện công việc khác.
+Là trạng thái đứng yên tạm thời của phương tiện giao thông trong một khoảng thời gian cần thiết đủ để cho người lên, xuống phương tiện, xếp dỡ hàng hóa hoặc thực hiện công việc khác.
+Là trạng thái đứng yên của phương tiện giao thông không giới hạn thời gian giữa 02 lần vận chuyển hàng hoá hoặc hành khách.
+2 2
+Khái niệm “đỗ xe” được hiểu như thế nào là đúng?
+Là trạng thái đứng yên của phương tiện giao thông có giới hạn trong một khoảng thời gian cần thiết đủ để cho người lên, xuống phương tiện đó, xếp dỡ hàng hóa hoặc thực hiện công việc khác.
+Là trạng thái đứng yên của phương tiện giao thông không giới hạn thời gian.
+3 3
+Cuộc đua xe chỉ được thực hiện khi nào?
+Diễn ra trên đường phố không có người qua lại. 
+Được người dân ủng hộ.
+Được cơ quan có thẩm quyền cấp phép.
+3 1
+Người điều khiển phương tiện giao thông đường bộ mà trong cơ thể có chất ma tuý có bị nghiêm cấm hay không?
+Bị nghiêm cấm.
+Không bị nghiêm cấm.
+Không bị nghiêm cấm, nếu có chất ma tuý ở mức nhẹ, có thể điều khiển phương tiện tham gia giao thông.
+3 2
+Sử dụng rượu bia khi lái xe, nếu bị phát hiện thì bị xử lý như thế nào?
+Chỉ bị nhắc nhở.
+Bị xử phạt hành chính hoặc có thể bị xử lý hình sự tùy theo mức độ vi phạm.
+Không bị xử lý hình sự.
+4 1
+Theo Luật phòng chống tác hại của rượu, bia, đối tượng nào dưới đây bị cấm sử dụng rượu bia khi tham gia giao thông?
+Người điều khiển: Xe ô tô, xe mô tô, xe đạp, xe gắn máy. 
+Người ngồi phía sau người điều khiển xe cơ giới.
+Người đi bộ.
+Cả ý 1 và ý 2. 
+3 3
+Hành vi điều khiển xe cơ giới chạy quá tốc độ quy định, giành đường, vượt ẩu có bị nghiêm cấm hay không?
+Bị nghiêm cấm tuỳ từng trường hợp.
+Không bị nghiêm cấm
+Bị nghiêm cấm.
+3 2
+Khi lái xe trong khu đô thị và đông dân cư trừ các khu vực có biển cấm sử dụng còi, người lái xe được sử dụng còi như thế nào trong các trường hợp dưới đây?
+Từ 22 giờ đêm đến 5 giờ sáng.
+Từ 5 giờ sáng đến 22 giờ tối.
+Từ 23 giờ đêm đến 5 giờ sáng hôm sau.
+4 4
+Người lái xe sử dụng đèn như thế nào khi lái xe trong khu đô thị và đông dân cư vào ban đêm?
+Bất cứ đèn nào miễn là mắt nhìn rõ phía trước.
+Chỉ bật đèn chiếu xa (đèn pha) khi không nhìn rõ đường.
+Đèn chiếu xa (đèn pha) khi đường vắng, đèn pha chiếu gần (đèn cốt) khi có xe đi ngược chiều.
+Đèn chiếu gần (đèn cốt).
+3 2
+Trong trường hợp đặc biệt, để được lắp đặt, sử dụng còi, đèn không đúng với thiết kế của nhà sản xuất đối với từng loại xe cơ giới bạn phải đảm bảo yêu cầu nào dưới đây?
+Phải đảm bảo phụ tùng do đúng nhà sản xuất đó cung cấp.
+Phải được chấp thuận của cơ quan có thẩm quyền.
+Phải là xe đăng ký và hoạt động tại các khu vực có địa hình phức tạp. 
+3 2
+Ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, đường cao tốc, đường hẹp, đường dốc, tại nơi đường bộ giao nhau cùng mức với đường sắt có được quay đầu xe hay không?
+Được phép.
+Không được phép.
+Tùy từng trường hợp.
+4 1
+Bạn đang lái xe phía trước có một xe cảnh sát giao thông không phát tín hiệu ưu tiên bạn có được phép vượt hay không?
+Không được vượt.
+Được vượt khi đang đi trên cầu.
+Được phép vượt khi đi qua nơi giao nhau có ít phương tiện cùng tham gia giao thông.
+Được vượt khi đảm bảo an toàn.
+4 1
+Bạn đang lái xe phía trước có một xe cứu thương đang phát tín hiệu ưu tiên bạn có được phép vượt hay không?
+Không được vượt.
+Được vượt khi đang đi trên cầu.
+Được phép vượt khi đi qua nơi giao nhau có ít phương tiện cùng tham gia giao thông.
+Được vượt khi đảm bảo an toàn.
+4 4
+Người điều khiển xe mô tô hai bánh, ba bánh, xe gắn máy có được phép sử dụng xe để kéo hoặc đẩy các phương tiện khác khi tham gia giao thông không?
+Được phép.
+Nếu phương tiện được kéo, đẩy có khối lượng nhỏ hơn phương tiện của mình.
+Tuỳ trường hợp.
+Không được phép. 
+3 3
+Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống của xe quệt xuống đường khi xe đang chạy có được phép hay không?
+Được phép.
+Tuỳ trường hợp.
+Không được phép.
+4 1
+Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi nào không được phép?
+Buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống của xe quệt xuống đường khi xe đang chạy.
+Buông một tay; sử dụng xe để chở người hoặc hàng hoá; để chân chạm xuống đất khi khởi hành.
+Đội mũ bảo hiểm; chạy xe đúng tốc độ quy định và chấp hành đúng quy tắc giao thông đường bộ.
+Chở người ngồi sau dưới 16 tuổi.
+4 2
+Người ngồi trên xe mô tô hai bánh, ba bánh, xe gắn máy khi tham gia giao thông có được mang, vác vật cồng kềnh hay không?
+Được mang, vác tuỳ trường hợp cụ thể. 
+Không được mang, vác.
+Được mang, vác nhưng phải đảm bảo an toàn.
+Được mang, vác tùy theo sức khỏe của bản thân.
+4 4
+Người ngồi trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông có được bám, kéo hoặc đẩy các phương tiện khác không?
+Được phép.
+Được bám trong trường hợp phương tiện của mình bị hỏng. 
+Được kéo, đẩy trong trường hợp phương tiện khác bị hỏng. 
+Không được phép.
+4 4
+Người ngồi trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông có được sử dụng ô khi trời mưa hay không?
+Được sử dụng.
+Chỉ người ngồi sau được sử dụng.
+Không được sử dụng.
+Được sử dụng nếu không có áo mưa.
+4 2
+Khi đang lên dốc người ngồi trên xe mô tô có được kéo theo người đang điều khiển xe đạp hay không?
+Chỉ được phép nếu cả hai đội mũ bảo hiểm. 
+Không được phép.
+Chỉ được thực hiện trên đường thật vắng.
+Chỉ được phép khi người đi xe đạp đã quá mệt.
+3 3
+Hành vi sử dụng xe mô tô để kéo, đẩy xe mô tô khác bị hết xăng đến trạm mua xăng có được phép hay không?
+Chỉ được kéo nếu đã nhìn thấy trạm xăng.
+Chỉ được thực hiện trên đường vắng phương tiện cùng tham gia giao thông.
+Không được phép.
+3 1
+Hành vi vận chuyển đồ vật cồng kềnh bằng xe mô tô, xe gắn máy khi tham gia giao thông có được phép hay không?
+Không được vận chuyển.
+Chỉ được vận chuyển khi đã chằng buộc cẩn thận.
+Chỉ được vận chuyển vật cồng kềnh trên xe máy nếu khoảng cách về nhà ngắn hơn 2 km.
+3 2
+Người đủ bao nhiêu tuổi trở lên thì được điều khiển xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi lanh từ 50 cm3 trở lên và các loại xe có kết cấu tương tự; xe ô tô tải, máy kéo có trọng tải dưới 3,5 tấn; xe ô tô chở người đến 9 chỗ ngồi?
+16 tuổi.
+18 tuổi.
+17 tuổi. 
+4 4
+Người điều khiển xe mô tô hai bánh, ba bánh, xe gắn máy có được phép sử dụng xe để kéo hoặc đẩy các phương tiện khác khi tham gia giao thông không?
+Được phép.
+Nếu phương tiện được kéo, đẩy có khối lượng nhỏ hơn phương tiện của mình.
+Tuỳ trường hợp.
+Không được phép.
+3 3
+Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống của xe quệt xuống đường khi xe đang chạy có được phép hay không?
+Được phép.
+Tuỳ trường hợp.
+Không được phép.
+4 1
+Khi điều khiển xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy, những hành vi nào không được phép?
+Buông cả hai tay; sử dụng xe để kéo, đẩy xe khác, vật khác; sử dụng chân chống của xe quệt xuống đường khi xe đang chạy.
+Buông một tay; sử dụng xe để chở người hoặc hàng hoá; để chân chạm xuống đất khi khởi hành.
+Đội mũ bảo hiểm; chạy xe đúng tốc độ quy định và chấp hành đúng quy tắc giao thông đường bộ.
+Chở người ngồi sau dưới 16 tuổi.
+4 2
+Người ngồi trên xe mô tô hai bánh, ba bánh, xe gắn máy khi tham gia giao thông có được mang, vác vật cồng kềnh hay không?
+Được mang, vác tuỳ trường hợp cụ thể.
+Không được mang, vác.
+Được mang, vác nhưng phải đảm bảo an toàn.
+Được mang, vác tùy theo sức khỏe của bản thân.
+4 4
+Người ngồi trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông có được bám, kéo hoặc đẩy các phương tiện khác không?
+Được phép.
+Được bám trong trường hợp phương tiện của mình bị hỏng.
+Được kéo, đẩy trong trường hợp phương tiện khác bị hỏng.
+Không được phép.
+4 3
+Người ngồi trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông có được sử dụng ô khi trời mưa hay không?
+Được sử dụng.
+Chỉ người ngồi sau được sử dụng.
+Không được sử dụng.
+Được sử dụng nếu không có áo mưa.
+4 2
+Khi đang lên dốc người ngồi trên xe mô tô có được kéo theo người đang điều khiển xe đạp hay không?
+Chỉ được phép nếu cả hai đội mũ bảo hiểm.
+Không được phép.
+Chỉ được thực hiện trên đường thật vắng.
+Chỉ được phép khi người đi xe đạp đã quá mệt.
+3 3
+Hành vi sử dụng xe mô tô để kéo, đẩy xe mô tô khác bị hết xăng đến trạm mua xăng có được phép hay không?
+Chỉ được kéo nếu đã nhìn thấy trạm xăng.
+Chỉ được thực hiện trên đường vắng phương tiện cùng tham gia giao thông.
+Không được phép.
+3 1
+Hành vi vận chuyển đồ vật cồng kềnh bằng xe mô tô, xe gắn máy khi tham gia giao thông có được phép hay không?
+Không được vận chuyển.
+Chỉ được vận chuyển khi đã chằng buộc cẩn thận.
+Chỉ được vận chuyển vật cồng kềnh trên xe máy nếu khoảng cách về nhà ngắn hơn 2km.
+3 2
+Người đủ bao nhiêu tuổi trở lên thì được điều khiển xe ô tô tải, máy kéo có trọng tải từ 3,5 tấn trở lên; xe hạng B2 kéo rơ moóc (FB2)?
+19 tuổi.
+21 tuổi.
+20 tuổi.
+3 2
+Người đủ bao nhiêu tuổi trở lên thì được điều khiển xe mô tô hai bánh, xe mô tô ba bánh có dung tích xi lanh từ 50 cm3 trở lên và các loại xe có kết cấu tương tự; xe ô tô tải, máy kéo có trọng tải dưới 3,5 tấn; xe ô tô chở người đến 9 chỗ ngồi?
+16 tuổi.
+18 tuổi.
+17 tuổi.
+4 3
+Người lái xe ô tô chở người trên 30 chỗ ngồi (hạng E), lái xe hạng D kéo rơ moóc (FD) phải đủ bao nhiêu tuổi trở lên?
+23 tuổi.
+24 tuổi.
+27 tuổi.
+30 tuổi.
+4 1
+Tuổi tối đa của người lái xe ô tô chở người trên 30 chỗ ngồi (hạng E) là bao nhiêu tuổi?
+55 tuổi đối với nam và 50 tuổi đối với nữ.
+55 tuổi đối với nam và nữ.
+60 tuổi đối với nam và 55 tuổi đối với nữ.
+45 tuổi với nam và 40 tuổi với nữ.
+4 2
+Người lái xe chở người từ 10 đến 30 chỗ ngồi (hạng D), lái xe hạng C kéo rơ moóc (FC) phải đủ bao nhiêu tuổi trở lên?
+23 tuổi
+24 tuổi.
+22 tuổi.
+18 tuổi.
+4 2
+Người đủ 16 tuổi được điều khiển các loại xe nào dưới đây?
+Xe mô tô 2 bánh có dung tích xi-lanh từ 50 cm3 trở lên.
+Xe gắn máy có dung tích xi-lanh dưới 50 cm3.
+Xe ô tô tải dưới 3,5 tấn; xe chở người đến 9 chỗ ngồi.
+Tất cả các ý nêu trên.
+3 2
+Người có GPLX mô tô hạng A1 không được phép điều khiển loại xe nào dưới đây?
+Xe mô tô có dung tích xi-lanh 125 cm3.
+Xe mô tô có dung tích xi-lanh từ 175 cm3 trở lên.
+Xe mô tô có dung tích xi-lanh 100 cm3.
+3 3
+Người có GPLX mô tô hạng A1 được phép điều khiển loại xe nào dưới đây?
+Xe mô tô hai bánh có dung tích xi-lanh từ 50 cm3 đến dưới 175 cm3.
+Xe mô tô ba bánh dùng cho người khuyết tật.
+Cả 2 ý.
+3 2
+Người có GPLX mô tô hạng A2 được phép điều khiển loại xe nào dưới đây?
+Xe mô tô ba bánh.
+Xe mô tô hai bánh có dung tích xi-lanh từ 175 cm3 trở lên và các loại xe quy định cho giấy phép lái xe hạng A1.
+Các loại máy kéo nhỏ có trọng tải đến 1.000 kg.
+3 1
+Người có GPLX mô tô hạng A3 được phép điều khiển loại xe nào dưới đây?
+Xe mô tô ba bánh.
+Xe mô tô hai bánh có dung tích xi-lanh từ 175 cm3 trở lên.
+Các loại máy kéo nhỏ có trọng tải đến 1.000 kg.
+3 1
+Người có giấy phép lái xe hạng B1 số tự động được điều khiển loại xe nào?
+Ô tô số tự động chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải thiết kế dưới 3.500 kg; ô tô dùng cho người khuyết tật. Không được hành nghề lái xe.
+Ô tô số tự động chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải thiết kế dưới 3.500 kg; ô tô dùng cho người khuyết tật. Được hành nghề lái xe kinh doanh vận tải.
+Ô tô chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; ô tô tải, kể cả ô tô tải chuyên dùng có trọng tải thiết kế dưới 3.500 kg; ô tô dùng cho người khuyết tật.
+3 2
+Người có giấy phép lái xe hạng B1 được điều khiển loại xe nào?
+Ô tô chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; ô tô tải, kể cả ô tô tải chuyên dùng có trọng tải thiết kế dưới 3.500 kg; máy kéo kéo một rơ moóc có trọng tải thiết kế dưới 3.500 kg. Được hành nghề lái xe.
+Ô tô chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; ô tô tải, kể cả ô tô tải chuyên dùng có trọng tải thiết kế dưới 3.500 kg; máy kéo kéo một rơ moóc có trọng tải thiết kế dưới 3.500 kg. Không hành nghề lái xe.
+Ô tô số tự động chở người đến 9 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; ô tô tải, kể cả ô tô tải chuyên dùng số tự động có trọng tải thiết kế trên 3.500 kg; ô tô dùng cho người khuyết tật.
+3 2
+Người có giấy phép lái xe hạng B2 được điều khiển loại xe nào dưới đây?
+Xe ô tô chở người trên 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải trên 3,5 tấn.
+Xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải dưới 3,5 tấn.
+Xe ô tô chở người từ 10 đến 30 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải trên 3,5 tấn.
+3 3
+Người có giấy phép lái xe hạng C được điều khiển loại xe nào dưới đây?
+Xe ô tô chở người trên 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải trên 3,5 tấn.
+Xe ô tô chở người từ 10 đến 30 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải trên 3,5 tấn.
+Xe ô tô chở người đến 9 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải trên 3,5 tấn.
+3 1
+Người có giấy phép lái xe hạng D được điều khiển loại xe nào dưới đây?
+Ô tô chở người đến 30 chỗ ngồi, kể cả chỗ ngồi cho người lái xe; xe ô tô tải, máy kéo có trọng tải trên 3,5 tấn.
+Xe ô tô chở người trên 30 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải trên 3,5 tấn.
+Xe kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C và FB2.
+3 2
+Người có giấy phép lái xe hạng E được điều khiển loại xe nào dưới đây?
+Xe kéo rơ moóc, ô tô đầu kéo kéo sơ mi rơ moóc và được điều khiển các loại xe quy định cho giấy phép lái xe hạng B1, B2, C và FB2.
+Ô tô chở người trên 30 chỗ ngồi; xe ô tô tải, máy kéo có trọng tải trên 3,5 tấn.
+Xe kéo rơ moóc và được điều khiển các loại xe: ô tô chở khách nối toa và các loại xe quy định cho giấy phép lái xe hạng B1, B2, C, D, FB2, FD.

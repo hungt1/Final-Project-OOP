@@ -1,0 +1,217 @@
+35
+4 2
+Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?
+Xe tải, xe khách, xe con, mô tô. 
+Xe tải, mô tô, xe khách, xe con. 
+Xe khách, xe tải, xe con, mô tô. 
+Mô tô, xe khách, xe tải, xe con.
+data/images/166.jpg
+4 3
+Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?
+Xe tải, xe con, mô tô. 
+Xe con, xe tải, mô tô. 
+Mô tô, xe con, xe tải. 
+Xe con, mô tô, xe tải.
+data/images/167.jpg
+2 1
+Trường hợp này xe nào được quyền đi trước?
+Mô tô.
+Xe con.
+data/images/168.jpg
+2 2
+Xe nào được quyền đi trước trong trường hợp này?
+Mô tô.
+Xe cứu thương.
+data/images/169.jpg
+2 1
+Theo tín hiệu đèn, xe nào được phép đi?
+Xe con và xe khách. 
+Mô tô.
+data/images/170.jpg
+3 1
+Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?
+Xe khách, xe tải, mô tô. 
+Xe tải, xe con, mô tô. 
+Xe khách, xe con, mô tô.
+data/images/171.jpg
+4 3
+Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?
+Xe khách, xe tải, mô tô, xe con. 
+Xe con, xe khách, xe tải, mô tô. 
+Mô tô, xe tải, xe khách, xe con. 
+Mô tô, xe tải, xe con, xe khách.
+data/images/172.jpg
+4 1
+Trong trường hợp này xe nào đỗ vi phạm quy tắc giao thông?
+Xe tải.
+Xe con và mô tô.
+Cả ba xe.
+Xe con và xe tải.
+data/images/173.jpg
+3 1
+Theo hướng mũi tên, những hướng nào xe gắn máy đi được?
+Cả ba hướng.
+Chỉ hướng 1 và 3.
+Chỉ hướng 1.
+data/images/174.jpg
+4 1
+Xe nào đỗ vi phạm quy tắc giao thông?
+Cả hai xe.
+Không xe nào vi phạm. 
+Chỉ xe mô tô vi phạm. 
+Chỉ xe tải vi phạm.
+data/images/175.jpg
+4 3
+Xe nào đỗ vi phạm quy tắc giao thông?
+Chỉ mô tô. 
+Chỉ xe tải. 
+Cả ba xe.
+Chỉ mô tô và xe tải.
+data/images/176.jpg
+2 2
+Xe tải kéo mô tô ba bánh như hình này có đúng quy tắc giao thông không?
+Đúng.
+Không đúng.
+data/images/177.jpg
+2 2
+Xe nào được quyền đi trước trong trường hợp này?
+Xe con.
+Xe mô tô.
+data/images/178.jpg
+4 4
+Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?
+Xe con (A), mô tô, xe con (B), xe đạp
+Xe con (B), xe đạp, mô tô, xe con (A). 
+Xe con (A), xe con (B), mô tô + xe đạp.  
+Mô tô + xe đạp, xe con (A), xe con (B).
+data/images/179.jpg
+2 1
+Xe nào được quyền đi trước trong trường hợp này?
+Mô tô.
+Xe con.
+data/images/180.jpg
+4 3
+Xe nào vi phạm quy tắc giao thông?
+Xe khách.
+Mô tô.
+Xe con.
+Xe con và mô tô.
+data/images/181.jpg
+3 3
+Các xe đi như thế nào là đúng quy tắc giao thông?
+Các xe ở phía tay phải và tay trái của người điều khiển được phép đi thẳng.
+Cho phép các xe ở mọi hướng được rẽ phải.
+Tất cả các xe phải dừng lại trước ngã tư, trừ những xe đã ở trong ngã tư được phép tiếp tục đi.
+data/images/182.jpg
+4 3
+Theo hướng mũi tên, xe nào được phép đi?
+Mô tô, xe con.
+Xe con, xe tải.
+Mô tô, xe tải.
+Cả ba xe.
+data/images/183.jpg
+3 2
+Trong hình dưới đây, xe nào chấp hành đúng quy tắc giao thông?
+Chỉ xe khách, mô tô.
+Tất cả các loại xe trên.
+Không xe nào chấp hành đúng quy tắc giao thông
+data/images/184.jpg
+4 3
+Theo hướng mũi tên, những hướng nào xe mô tô được phép đi?
+Cả ba hướng.
+Hướng 1 và 2.
+Hướng 1 và 3.
+Hướng 2 và 3
+data/images/185.jpg
+3 2
+Trong trường hợp này, thứ tự xe đi như thế nào là đúng quy tắc giao thông?
+Xe công an, xe quân sự, xe con + mô tô. 
+Xe quân sự, xe công an, xe con + mô tô.
+Xe mô tô + xe con, xe quân sự, xe công an
+data/images/186.jpg
+4 1
+Trong hình dưới, những xe nào vi phạm quy tắc giao thông?
+Xe con (E), mô tô (C).
+Xe tải (A), mô tô (D).
+Xe khách (B), mô tô (C).
+Xe khách (B), mô tô (D).
+data/images/187.jpg
+3 3
+Trong hình dưới, những xe nào vi phạm quy tắc giao thông?
+Xe con (B), mô tô (C).
+Xe con (A), mô tô (C).
+Xe con (E), mô tô (D).
+data/images/188.jpg
+2 2
+Bạn có được phép vượt xe mô tô phía trước không?
+Cho phép.
+Không được vượt.
+data/images/189.jpg
+4 4
+Theo tín hiệu đèn của xe cơ giới, xe nào vi phạm quy tắc giao thông?
+Xe mô tô.
+Xe ô tô con.
+Không xe nào vi phạm.
+Cả 2 xe.
+data/images/190.jpg
+3 2
+Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?
+Xe con.
+Xe tải.
+Xe con, xe tải.
+data/images/191.jpg
+3 3
+Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?
+Xe tải, xe con.
+Xe khách, xe con.
+Xe khách, xe tải.
+data/images/192.jpg
+4 2
+Các xe đi theo hướng mũi tên, xe nào vi phạm quy tắc giao thông?
+Xe con, xe tải, xe khách.
+Xe tải, xe khách, xe mô tô
+Xe khách, xe mô tô, xe con
+Cả bốn xe.
+data/images/193.jpg
+4 2
+Các xe đi theo hướng mũi tên, xe nào chấp hành đúng quy tắc giao thông?
+Xe tải, mô tô.
+Xe khách, mô tô.
+Xe tải, xe con.
+Mô tô, xe con.
+data/images/194.jpg
+3 3
+Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?
+Xe của bạn, mô tô, xe con
+Xe con, xe của bạn, mô tô. 
+Mô tô, xe con, xe của bạn
+data/images/195.jpg
+3 2
+Các xe đi theo thứ tự nào là đúng quy tắc giao thông đường bộ?
+Xe của bạn, mô tô, xe con. 
+Xe con, xe của bạn, mô tô. 
+Mô tô, xe con, xe của bạn.
+data/images/196.jpg
+3 2
+Bạn xử lý như thế nào trong trường hợp này ?
+Tăng tốc độ, rẽ phải trước xe tải và xe đạp. 
+Giảm tốc độ, rẽ phải sau xe tải và xe đạp. 
+Tăng tốc độ, rẽ phải trước xe đạp.
+data/images/197.jpg
+3 1
+Xe nào dừng đúng theo quy tắc giao thong ?
+Xe con.
+Xe mô tô.
+Cả 2 xe đều đúng.
+data/images/198.jpg
+2 2
+Xe của bạn đang di chuyển gần đến khu vực giao cắt với đường sắt, khi rào chắn đang dịch chuyển, bạn điều khiển xe như thế nào là đứng quy tắc giao thông?
+Quan sát nếu thấy không có tầu thì tăng tốc cho xe vượt qua đường sắt.
+Dừng lại trước rào chắn một khoảng cách an toàn.
+data/images/199.jpg
+3 2
+Trong tình huống dưới đây, xe đầu kéo kéo rơ moóc (xe container) đang rẽ phải, xe con màu xanh và xe máy phía sau xe container đi như thế nào để đảm bảo an toàn?
+Vượt về phía bên phải để đi tiếp.
+Giảm tốc độ chờ xe container rẽ xong rồi tiếp tục đi.
+Vượt về phía bên trái để đi tiếp.
+data/images/200.jpg

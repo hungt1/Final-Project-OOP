@@ -1,0 +1,191 @@
+30
+3 3 1
+Biển nào dưới đây xe gắn máy được phép đi vào?
+Biển 1.
+Biển 2.
+Cả 2 biển.
+data/images/101.jpg
+3 1 1
+Biển nào báo hiệu cấm xe mô tô hai bánh đi vào?
+Biển 1.
+Biển 2.
+Biển 3.
+data/images/102.jpg
+4 3 1
+Khi gặp biển nào thì xe mô tô hai bánh được đi vào?
+Không biển nào.
+Biển 1 và 2.
+Biển 2 và 3.
+Cả 3 biển.
+data/images/103.jpg
+4 2 1
+Biển nào cấm quay đầu xe?
+Biển 1.
+Biển 2.
+Không biển nào.
+Cả 2 biển.
+data/images/104.jpg
+3 1 1
+Biển nào cấm xe rẽ trái?
+Biển 1.
+Biển 2.
+Cả hai biển.
+data/images/105.jpg
+3 2 1
+Khi gặp biển nào xe được rẽ trái?
+Biển 1.
+Biển 2.
+Không biển nào.
+data/images/106.jpg
+4 1 1
+Biển nào cấm các phương tiện giao thông đường bộ rẽ phải?
+Biển 1 và 2.
+Biển 1 và 3.
+Biển 2 và 3.
+Cả ba biển.
+data/images/107.jpg
+4 1 1
+Biển nào cấm các phương tiện giao thông đường bộ rẽ trái?
+Biển 1 và 2.
+Biển 1 và 3.
+Biển 2 và 3.
+Cả ba biển.
+data/images/108.jpg
+3 2 1
+Biển nào cho phép xe rẽ trái?
+Biển 1.
+Biển 2.
+Không biển nào.
+data/images/109.jpg
+3 3 1
+Biển nào xe quay đầu không bị cấm?
+Biển 1.
+Biển 2.
+Cả hai biển.
+data/images/110.jpg
+3 1 1
+Biển nào xe được phép quay đầu nhưng không được rẽ trái?
+Biển 1.
+Biển 2.
+Cả hai biển.
+data/images/111.jpg
+3 2 1
+Biển nào là biển “Cấm đi ngược chiều”?
+Biển 1.
+Biển 2.
+Cả ba biển.
+data/images/112.jpg
+3 3 1
+Biển nào dưới đây các phương tiện không được phép đi vào?
+Biển 1.
+Biển 2.
+Biển 1 và 2.
+data/images/113.jpg
+3 2 1
+Khi gặp biển nào xe ưu tiên theo luật định vẫn phải dừng lại?
+Biển 1.
+Biển 2.
+Cả ba biển.
+data/images/114.jpg
+3 1 1
+Biển nào cấm tất cả các loại xe cơ giới và thô sơ đi lại trên đường, trừ xe ưu tiên theo luật định (nếu đường vẫn cho xe chạy được)?
+Biển 1.
+Biển 2.
+Cả hai biển.
+data/images/115.jpg
+4 1 1
+Gặp biển nào xe xích lô được phép đi vào?
+Biển 1.
+Biển 2.
+Biển 3.
+Biển 1 và biển 2.
+data/images/116.jpg
+3 3 1
+Gặp biển nào xe lam, xe xích lô máy được phép đi vào?
+Biển 1.
+Biển 2.
+Biển 3.
+data/images/117.jpg
+2 1 1
+Biển báo này có ý nghĩa như thế nào?
+Tốc độ tối đa cho phép về ban đêm cho các phương tiện là 70 km/h.
+Tốc độ tối thiểu cho phép về ban đêm cho các phương tiện là 70 km/h.
+data/images/118.jpg
+3 2 1
+Biển nào xe mô tô hai bánh được đi vào?
+Biển 1 và 2.
+Biển 1 và 3.
+Biển 2 và 3.
+data/images/120.jpg
+3 2 1
+Biển nào xe mô tô hai bánh không được đi vào?
+Biển 1.
+Biển 2.
+Biển 3.
+data/images/121.jpg
+2 1 1
+Biển báo nào báo hiệu bắt đầu đoạn đường vào phạm vi khu dân cư, các phương tiện tham gia giao thông phải tuân theo các quy định đi đường được áp dụng ở khu đông dân cư?
+Biển 1.
+Biển 2.
+data/images/122.jpg
+4 1 1
+Gặp biển nào người lái xe phải nhường đường cho người đi bộ?
+Biển 1.
+Biển 2.
+Biển 3.
+Biển 1 và 3.
+data/images/123.jpg
+4 3 1
+Biển nào chỉ đường dành cho người đi bộ, các loại xe không được đi vào khi gặp biển này?
+Biển 1.
+Biển 1 và 3.
+Biển 3.
+Cả ba biển.
+data/images/124.jpg
+3 1 1
+Biển nào báo hiệu “Đường dành cho xe thô sơ”?
+Biển 1.
+Biển 2.
+Biển 3.
+data/images/125.jpg
+4 4 1
+Biển nào báo hiệu sắp đến chỗ giao nhau nguy hiểm?
+Biển 1.
+Biển 1 và 2.
+Biển 2 và 3.
+Cả ba biển.
+data/images/126.jpg
+3 1 1
+Biển nào báo hiệu “Giao nhau với đường sắt có rào chắn”?
+Biển 1.
+Biển 2 và 3.
+Biển 3.
+data/images/127.jpg
+4 3 1
+Biển nào báo hiệu nguy hiểm giao nhau với đường sắt?
+Biển 1 và 2.
+Biển 1 và 3.
+Biển 2 và 3.
+Cả ba biển.
+data/images/128.jpg
+4 2 1
+Biển nào báo hiệu “Giao nhau có tín hiệu đèn”?
+Biển 1.
+Biển 2.
+Biển 3.
+Cả ba biển.
+data/images/129.jpg
+4 3 1
+Biển nào báo hiệu Đường sắt giao nhau với đường bộ không có rào chắn?
+Biển 1 và 2.
+Biển 1 và 3.
+Biển 2 và 3.
+Cả ba biển.
+data/images/130.jpg
+4 1 1
+Biển nào báo hiệu sắp đến chỗ giao nhau giữa đường bộ và đường sắt?
+Biển 1.
+Biển 2.
+Biển 3.
+Biển 1 và 3.
+data/images/131.jpg

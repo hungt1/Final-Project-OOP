@@ -1,0 +1,197 @@
+30 
+4 3 1
+Biển nào cấm người đi bộ?
+Biển 1
+Biển 1 và 3.
+Biển 2.
+Biển 2 và 3
+data/images/271.jpg
+4 1 1
+Gặp biển nào người lái xe phải nhường đường cho người đi bộ?
+Biển 1
+Biển 3.
+Biển 2
+Biển 1 và 3
+data/images/272.jpg
+4 3 1
+: Biển nào chỉ đường dành cho người đi bộ, các loại xe không được đi vào khi gặp biển này?
+Biển 1
+Biển 1 và 3.
+Biển 3
+Cả ba biển.
+data/images/273.jpg
+4 1 1
+Biển nào cấm mọi loại xe cơ giới đi vào, trừ xe gắn máy, mô tô 2 bánh và các loại xe ưu tiên theo luật định?
+Biển 1
+Biển 2.
+Biển 1 và 3
+Cả ba biển.
+data/images/274.jpg
+4 4 1
+Biển nào cấm ôtô tải?
+Cả ba biển
+Biển 2 và 3
+Biển 1 và 3
+Biển 1 và 2
+data/images/275.jpg
+4 1 1
+Biển nào cấm máy kéo?
+Biển 2 và 3
+Biển 1 và 3
+Cả ba biển
+Biển 1
+data/images/276.jpg
+4 2 1
+Biển nào báo hiệu sắp đến chỗ giao nhau nguy hiểm?
+Biển 1 và 2
+Biển 2 và 3
+Biển 1
+Cả ba biển
+data/images/277.jpg
+3 1 1
+Biển nào báo hiệu sắp đến chỗ giao nhau với đường sắt có rào chắn?
+Biển 1.
+Biển 2 và 3.
+Biển 3.
+data/images/278.jpg
+4 3 1
+Biển nào báo hiệu giao nhau có tín hiệu đèn?
+Biển 2.
+Biển 1.
+Biển 3.
+Cả ba biển.
+data/images/279.jpg
+4 1 1
+Biển nào báo hiệu nguy hiểm giao nhau với đường sắt?
+Biển 1 và 3.
+Biển 1 và 2.
+Biển 2 và 3.
+Cả ba biển.
+data/images/280.jpg
+4 2 1
+Biển nào báo hiệu đường sắt giao nhau với đường bộ không có rào chắn?
+Biển 1 và 2.
+Biển 2 và 3.
+Biển 1 và 3.
+Cả ba biển.
+data/images/281.jpg
+3 2 1
+Biển nào báo hiệu cửa chui?
+Biển 1.
+Biển 2.
+Biển 3.
+data/images/282.jpg
+3 1 1
+Biển nào báo hiệu “Hết đoạn đường ưu tiên”?
+Biển 3.
+Biển 1.
+Biển 2.
+data/images/283.jpg
+4 2 1
+Biển nào báo hiệu, chỉ dẫn xe đi trên đường này được quyền ưu tiên qua nơi giao nhau?
+Biển 1 và 2.
+Biển 1 và 3.
+Cả ba biển.
+Biển 2 và 3.
+data/images/284.jpg
+4 1 1
+Biển nào báo hiệu giao nhau với đường không ưu tiên?
+Biển 1.
+Biển 2 và 3.
+Biển 2.
+Biển 3.
+data/images/285.jpg
+3 2 1
+Biển nào báo hiệu giao nhau với đường ưu tiên?
+Biển 1 và 3.
+Biển 2.
+Biển 3.
+data/images/286.jpg
+4 4 1
+Biển nào báo hiệu nguy hiểm đường bị hẹp?
+Biển 1 và 3.
+Biển 2 và 3.
+Cả ba biển.
+Biển 1 và 2.
+data/images/287.jpg
+4 2 1
+Khi gặp biển nào, người lái xe phải giảm tốc độ, chú ý xe đi ngược chiều, xe đi ở phía đường bị hẹp phải nhường đường cho xe đi ngược chiều?
+Biển 1.
+Biển 2 và 3.
+Cả ba biển.
+Biển 1 và 3.
+data/images/288.jpg
+4 2 1
+Biển nào báo hiệu giao nhau với đường ưu
+Biển 1.
+Biển 3.
+Biển 2.
+Cả ba biển.
+data/images/289.jpg
+3 1 1
+Biển nào báo hiệu “Đường giao nhau” của các tuyến đường cùng cấp?
+Biển 1.
+Biển 3.
+Biển 2.
+data/images/290.jpg
+3 2 1
+Biển nào báo hiệu giao nhau với đường không ưu tiên?
+Biển 1.
+Biển 2.
+Biển 3.
+data/images/291.jpg
+3 1 1
+Biển nào báo hiệu đường hai chiều?
+Biển 1.
+Biển 2.
+Biển 3.
+data/images/292.jpg
+3 2 1
+Biển nào báo hiệu phải giảm tốc độ, nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp?
+Biển 1.
+Biển 2.
+Biển 3.
+data/images/293.jpg
+4 3 1
+Biển nào chỉ dẫn được ưu tiên qua đường hẹp?
+Biển 1.
+Biển 2.
+Biển 3.
+Biển 2 và 3.
+data/images/294.jpg
+3 2 1
+Biển nào báo hiệu cấm xe mô tô ba bánh đi vào?
+Biển 1 và 3.
+Biển 1 và 2.
+Biển 2 và 3.
+data/images/295.jpg
+3 1 1
+Biển nào báo hiệu cấm xe mô tô hai bánh đi vào?
+Biển 1.
+Biển 2.
+Biển 3.
+data/images/296.jpg
+4 3 1
+Khi gặp biển nào thì xe mô tô hai bánh được đi vào?
+Không biển nào.
+Biển 1 và 2 .
+Biển 2 và 3.
+Cả ba biển.
+data/images/297.jpg
+3 2 1
+Biển nào xe mô tô hai bánh được đi vào?
+Biển 1 và 2.
+Biển 1 và 3.
+Biển 2 và 3.
+data/images/298.jpg
+3 2 1
+Biển nào xe mô tô hai bánh không được đi vào?
+Biển 1.
+Biển 2.
+Biển 3.
+data/images/299.jpg
+2 1 1
+Ba biển này có ý nghĩa hiệu lực thế nào?
+Cấm các loại xe ở biển phụ đi vào.
+Cấm các loại xe cơ giới đi vào trừ loại xe ở biển phụ.
+data/images/300.jpg
